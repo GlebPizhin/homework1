@@ -35,7 +35,7 @@ public class map_inter {
                     Scanner scan_2 = new Scanner(System.in);
                     int var_2 = scan_2.nextInt();
 
-                    for (int i = 0; i <= var_2; i += 1) {
+                    for (int i = 0; i < var_2; i += 1) {
 
                         Scanner new_scan = new Scanner(System.in);
                         int cit_num = i + 1;
