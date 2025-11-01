@@ -6,6 +6,8 @@ public class map_inter {
 
     public static void main(String[] args) {
 
+        //Реализация через конструктор Map
+
         Map<Integer,String> cit_line = new HashMap<>();
 
         while (true) {
